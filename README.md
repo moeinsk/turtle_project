@@ -4,7 +4,7 @@ Thise project is made by Turtle library
 
 ### installion
 
-1_ Install turtle library with ==> pip
+1_ Install turtle , pyfiglet library with ==> pip
 2_ addresing on your command line
 3_run and Enjoy it
 
